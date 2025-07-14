@@ -7,8 +7,7 @@
     ],
     "dc:bibliographicCitation": "Zahrer, Alexander. Forthcoming. Children of the sago: Muyu texts. (Open Text Collections 2). Berlin: Language Science Press. DOI: 10.5281/zenodo.15781820 ",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TextCorpus",
-    "dc:description": "
-This collection of ten texts offers a unique glimpse into the language and culture of the Muyu, a Papuan people living in the heart of New Guinea. It features narratives from six storytellers, all of which have been transcribed, translated, and linguistically annotated.\n The presentation follows a two-part structure: first, a parallel-text format with Muyu and English arranged in columns; second, an interlinearized version for detailed linguistic analysis. The texts revolve around two central themes—myths of origin and accounts of encounters with animals.\n A brief introduction to the Muyu language and its speakers precedes the texts, providing essential context for readers from both linguistic and anthropological backgrounds.",
+    "dc:description": "This collection of ten texts offers a unique glimpse into the language and culture of the Muyu, a Papuan people living in the heart of New Guinea. It features narratives from six storytellers, all of which have been transcribed, translated, and linguistically annotated.\n The presentation follows a two-part structure: first, a parallel-text format with Muyu and English arranged in columns; second, an interlinearized version for detailed linguistic analysis. The texts revolve around two central themes—myths of origin and accounts of encounters with animals.\n A brief introduction to the Muyu language and its speakers precedes the texts, providing essential context for readers from both linguistic and anthropological backgrounds.",
     "dc:identifier": "sout2940a",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
