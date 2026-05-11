@@ -7,5 +7,5 @@ The presentation follows a two-part structure: first, a parallel-text format wit
 
 A brief introduction to the Muyu language and its speakers precedes the texts, providing essential context for readers from both linguistic and anthropological backgrounds.
  
-A human readable version of the book is available at https://zenodo.org/records/15781820
+A human readable version of the book is available under the name "Children of the sago: Muyu texts" at https://zenodo.org/records/15781820
  
